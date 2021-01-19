@@ -1,4 +1,7 @@
-#include<iostream>
+#include<iostream>//iostream类库； cin cout 都是类库中的类对象；cin是类istream 对象，cout是类ostream 对象
+
+#include <math.h>
+
 int main()
 {
 	using namespace std;
