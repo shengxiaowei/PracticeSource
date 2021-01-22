@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_Chapter1", "CPP_Chapter
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_Chapter2", "CPP_Chapter2\CPP_Chapter2\CPP_Chapter2.vcxproj", "{4396850B-8299-4F9C-8EF0-8BB960BF7270}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_Chapter3", "CPP_Chapter3\CPP_Chapter3.vcxproj", "{41402171-0F02-4785-9F03-A48EDF0E6B06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{4396850B-8299-4F9C-8EF0-8BB960BF7270}.Release|x64.Build.0 = Release|x64
 		{4396850B-8299-4F9C-8EF0-8BB960BF7270}.Release|x86.ActiveCfg = Release|Win32
 		{4396850B-8299-4F9C-8EF0-8BB960BF7270}.Release|x86.Build.0 = Release|Win32
+		{41402171-0F02-4785-9F03-A48EDF0E6B06}.Debug|x64.ActiveCfg = Debug|x64
+		{41402171-0F02-4785-9F03-A48EDF0E6B06}.Debug|x64.Build.0 = Debug|x64
+		{41402171-0F02-4785-9F03-A48EDF0E6B06}.Debug|x86.ActiveCfg = Debug|Win32
+		{41402171-0F02-4785-9F03-A48EDF0E6B06}.Debug|x86.Build.0 = Debug|Win32
+		{41402171-0F02-4785-9F03-A48EDF0E6B06}.Release|x64.ActiveCfg = Release|x64
+		{41402171-0F02-4785-9F03-A48EDF0E6B06}.Release|x64.Build.0 = Release|x64
+		{41402171-0F02-4785-9F03-A48EDF0E6B06}.Release|x86.ActiveCfg = Release|Win32
+		{41402171-0F02-4785-9F03-A48EDF0E6B06}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
